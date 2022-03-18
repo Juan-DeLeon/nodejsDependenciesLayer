@@ -1,0 +1,32 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "juan.deleon@definityfirst.com",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "aws-lambda-router": "^0.11.0",
+    "axios": "^0.21.4",
+    "crypto-js": "^4.0.0",
+    "exceljs": "^4.3.0",
+    "fast-json-patch": "^3.1.0",
+    "form-data": "^4.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwks-rsa": "^2.0.5",
+    "knex": "^1.0.1",
+    "lowercase-keys": "^2.0.0",
+    "luxon": "^1.27.0",
+    "mssql": "^7.1.0",
+    "nodemailer": "^6.7.2",
+    "number-in-letters": "^0.5.0",
+    "pdfkit": "^0.13.0",
+    "qs": "^6.10.1",
+    "sharp": "^0.28.3"
+  }
+}
